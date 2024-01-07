@@ -1,0 +1,8 @@
+Enter a value of x (a number) to evaluate the McLaurin exponentional function:3 
+Looks good, thanks.
+Enter number of iterations to evaluate the McLaurin exponential function:20
+Looks good, thanks.
+The value of the original exponential function is: 20.0855
+The value of the McLaurin series exponential function is: 20.0855
+The value of the original log function is: -1.20397
+The value of the McLaurin series log function is: -1.20304
